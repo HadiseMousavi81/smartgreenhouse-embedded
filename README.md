@@ -2,21 +2,19 @@
 
 This project is an embedded software developed for a smart greenhouse system based on STM32 (STM32F103C8) and SIM800L GSM module.
 
-## 📌 Features
+##  Features
 - UART communication with buffer and timeout
 - SIM800L interfacing for sending SMS and remote communication
 -  Register-based configuration
 - Clean project structure (src, lib, include, test)
 
-## 🧠 Technologies
+##  Technologies
 - STM32F1 + STM32Cube
 - PlatformIO + VSCode
 - C language
 
-## 🛠️ How to build
-Clone this repo and open it in PlatformIO (VSCode). Choose the board `STM32F103C8` and hit build.
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ├── src/ → Application main logic
 ├── lib/ → SIM800L driver and custom libraries
@@ -25,6 +23,6 @@ Clone this repo and open it in PlatformIO (VSCode). Choose the board `STM32F103C
 └── platformio.ini → PlatformIO config
 
 
-## 👤 Author
+##  Author
 Hadise Mousavi  
-📧 hadisemousavi8223.com 
+hadisemousavi8223.com 
